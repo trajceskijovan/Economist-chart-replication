@@ -8,4 +8,4 @@ https://github.com/trajceskijovan/Economist-chart-replication/blob/main/Economis
 ![](output/Output.PNG)
 
 # Output - PDF:
-![](output/Output.PNG)
+![](Economist-chart-replication.pdf)
