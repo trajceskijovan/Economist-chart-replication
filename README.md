@@ -1,5 +1,5 @@
 # Economist-chart-replication
-Chart replication from "The Economist" magazine in R markdown
+"The Economist" magazine chart replication from scratch written in R markdown.
 
 # Code:
 https://github.com/trajceskijovan/Economist-chart-replication/blob/main/Economist_chart_replication.R
