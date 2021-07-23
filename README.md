@@ -5,4 +5,4 @@ Chart replication from " The Economist" in R markdown
 https://github.com/trajceskijovan/Economist-chart-replication/blob/main/Economist_chart_replication.R
 
 # Output:
-![](Economist-chart-replication.svg)
+![](output/Output.PNG)
