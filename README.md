@@ -1,5 +1,5 @@
-# Economist-chart-replication
-"The Economist" magazine chart replication from scratch written in R Script.
+# Economist-chart-reproduction
+"The Economist" magazine chart reproduction from scratch written in R Script.
 
 # Code:
 https://github.com/trajceskijovan/Economist-chart-replication/blob/main/Economist_chart_replication.R
