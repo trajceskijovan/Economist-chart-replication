@@ -30,7 +30,7 @@ library(extrafont)
 
 
 # Load dataset in raw format form my GitHub account
-data_frame <- readr::read_csv("https://raw.githubusercontent.com/trajceskijovan/Semester2/main/data.csv")
+data_frame <- readr::read_csv("..data.csv")
 
 
 # Review dataset
@@ -69,8 +69,8 @@ data_frame %>%
     
     
     # Due to lack of data and not having Illustrator I will draw the legends onto the plot
-    draw_image("https://raw.githubusercontent.com/trajceskijovan/Semester2/main/legend.jpg",x = -30, y = 10, width = 18, height = 9.925449871)+
-    draw_image("https://raw.githubusercontent.com/trajceskijovan/Semester2/main/legend2.jpg",x = -100, y = 32, width = 20, height = 13.59807461)+
+    draw_image("https://..legend.jpg",x = -30, y = 10, width = 18, height = 9.925449871)+
+    draw_image("https://..legend2.jpg",x = -100, y = 32, width = 20, height = 13.59807461)+
     
     
     # Format (axis and titles)
