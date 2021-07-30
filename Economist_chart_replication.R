@@ -1,12 +1,6 @@
 # Clear up data in global environment
 rm(list=ls()) 
 
-
-# Set Working Directory ==> You need to change this path to your desired folder please! <==
-# This is where output image will be saved
-setwd("C:/Users/Jovan Trajceski/Desktop")
-
-
 # Install Libraries (if required):
 install.packages("tidyverse")
 install.packages("ggplot2")
@@ -19,7 +13,6 @@ install.packages('gsheet')
 install.packages("magick")
 install.packages("svglite")
 install.packages('extrafont')
-
 
 # Load libraries:
 library(tidyverse)
@@ -106,3 +99,8 @@ dev.off()
 
 # The PDF/SVG files will be saved here:
 getwd()
+
+
+# This code is free to use for academic purposes only, provided that a proper reference is cited. 
+# This code comes without the technical support of any kind. 
+# Under no circumstances will the author be held responsible for any use of this code in any way.
