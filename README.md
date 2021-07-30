@@ -7,6 +7,9 @@ https://github.com/trajceskijovan/Economist-chart-replication/blob/main/Economis
 # Link to Economist chart:
 https://www.economist.com/graphic-detail/2019/07/06/if-everyone-had-voted-hillary-clinton-would-probably-be-president
 
+![](output/Economist.PNG)
+
+
 # Reproduction output (png):
 ![](output/Output.PNG)
 
