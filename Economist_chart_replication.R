@@ -68,7 +68,7 @@ data_frame %>%
     annotate("text", x = 45, y = 45, label = "Donald Trump \n more likely to win", fontface=2, family = "serif", color = "#e30613", hjust = 0, size = 7) + 
     
     
-    # Due to lack of data and not having Illustrator I will draw the legends onto the plot
+    # Due to lack of data and not having Adobe Illustrator I will draw the legends onto the plot
     draw_image("https://..legend.jpg",x = -30, y = 10, width = 18, height = 9.925449871)+
     draw_image("https://..legend2.jpg",x = -100, y = 32, width = 20, height = 13.59807461)+
     
@@ -88,19 +88,17 @@ data_frame %>%
 
 
 # You can export image as "SVG" with "WIDTH:1900" and "HEIGHT:1060", or better yet, please run the code below
-
-
 # Save plot as PDF and SVG with the dimensions specified below
 # Images will be saved in the working directory setup on line 7 above (please make sure you change the path to your location)
 ggsave("Jovan_Trajceski_HW1.pdf", path=getwd(), width=22, height=12, units = ("in"))
 ggsave("Jovan_Trajceski_HW1.svg", path=getwd(), width=22, height=12, units = ("in"))
 dev.off()
 
-
 # The PDF/SVG files will be saved here:
 getwd()
-
 
 # This code is free to use for academic purposes only, provided that a proper reference is cited. 
 # This code comes without the technical support of any kind. 
 # Under no circumstances will the author be held responsible for any use of this code in any way.
+
+
