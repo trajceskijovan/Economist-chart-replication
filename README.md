@@ -3,7 +3,7 @@
 
 Task:
 1. Select a chart from "The Economist" to be reporoduced from scratch
-2. Try to find similar data to build the reporoduction chart on
+2. Try to find similar data to build the reporoduction chart from
 3. Write the R code and reproduce the chart
 
 # Code:
